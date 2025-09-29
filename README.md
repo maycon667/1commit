@@ -1,3 +1,2 @@
 # site dos brainrots
-## davi vai montar o pc
-### to ficando bonito
+site feito pelo luix meu amigo da turma ds crianças
